@@ -876,6 +876,11 @@
 893|Marteau Mastoc
 894|Vindicte
 895|Tranch'Aqua
+896|Crash Brûlant
+897|Crash Obscur
+898|Crash Toxique
+899|Crash Musclé
+900|Crash Magique
 901|Lune Rouge
 902|Mortier Matcha
 903|Bombe au Sirop
